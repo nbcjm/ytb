@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c1fd190-5861-4b36-8bab-9c797ab21e6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kublessfunction.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entry.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entry.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eventhandler.ts" beforeDir="false" />
-    </list>
+    <list default="true" id="0c1fd190-5861-4b36-8bab-9c797ab21e6d" name="Default Changelist" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +70,16 @@
       <workItem from="1606899296761" duration="470000" />
       <workItem from="1606974252921" duration="7692000" />
       <workItem from="1607040272230" duration="49000" />
-      <workItem from="1607040353872" duration="12945000" />
+      <workItem from="1607040353872" duration="13044000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1607072099317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607072099317</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +97,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607045453990">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -105,5 +110,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="988" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607050866107" />
+    <state x="1032" y="0" key="Vcs.Push.Dialog.v2" timestamp="1607072154034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="0" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607072154034" />
   </component>
 </project>
